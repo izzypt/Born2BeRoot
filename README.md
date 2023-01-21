@@ -9,3 +9,7 @@ But... what is a VM? A VM, as define in vmware.com, "is a compute resource that 
 VMs may be deployed to accommodate different levels of processing power needs, to run software that requires a different operating system, or to test applications in a safe, sandboxed environment.
 
 At the end of this project, I was able to set up my own operating system while implementing strict rules.
+
+# Solution Process
+
+This are the steps followed to implement the project goal :
